@@ -4,7 +4,7 @@ This speech recognition project is just a basic prototype which will be later on
 # Prerequisites
 - PyCharm
 - A functioning mic 
-- Python packages (SpeechRecognition, librosa, PyAudio) 
+- Python packages (SpeechRecognition, librosa, PyAudio, NLP, REGEX) 
 
 # Installing 
 - Install python packages through pip3 on terminal / command prompt
